@@ -2,4 +2,4 @@
 
 Heroku
 
-https://git.heroku.com/simple-servers.git
+https://simple-servers.herokuapp.com/
